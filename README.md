@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parnika21
-- 👀 I’m interested in developing my first project on git.
+- 👀 Check out my projects! Hope you like them.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on git hub.
 - 📫 My user name: @parnika21.
