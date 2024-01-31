@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parnika21
 - 👀 Check out my projects! Hope you like them.
-- 🌱 I’m currently learning software development.
+- 🌱 Previously worked as Intern in Colgate-Palmolive, I’m currently looking for full time roles in software development.
 - 💞️ I’m looking to collaborate on git hub.
 - 📫 My user name: @parnika21.
 
